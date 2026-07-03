@@ -53,14 +53,6 @@ A passionate **Computer Science & Engineering Student** dedicated to building sc
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=PavithraRajendran17&show_icons=true&theme=gotham" alt="Pavithra's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavithraRajendran17&layout=compact&theme=gotham" alt="Top Languages" height="150" />
-</p>
-
----
-
 ### 📫 Connect with Me
 
 <p align="left">
