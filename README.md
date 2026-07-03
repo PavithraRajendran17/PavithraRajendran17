@@ -1,17 +1,15 @@
 # Hi there, I'm Pavithra Rajendran 👋 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=PavithraRajendran17&label=Profile%20Views&color=0e76a8&style=flat-square" alt="PavithraRajendran17" />
-</p>
+
 
 A passionate **Computer Science & Engineering Student** dedicated to building scalable web solutions, optimizing databases, and exploring cutting-edge cloud tech. 🚀
 
 ---
 
 ### 🌟 About Me
-- 🔭 I’m currently working on enhancing full-stack applications and cloud-based systems.
-- 🎓 Pre-final/Final year CSE Student focused on software development and data analytics.
-- 💡 Interested in **Agile Methodologies (Scrum)**, Cloud Solutions, and AI integrations.
-- ⚡ Fun fact: I love crafting clean user interfaces and turning complex logic into structured code.
+- 🎓 Computer Science & Engineering student passionate about software development.
+- 💻 Focusing on building clean web applications, optimizing databases, and exploring backend logic.
+- ⚙️ Love learning new tech stacks and implementing them through practical projects.
+- ✍️ Driven by problem-solving and writing well-structured, maintainable code.
 
 ---
 
