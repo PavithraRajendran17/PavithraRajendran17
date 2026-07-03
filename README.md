@@ -1,4 +1,4 @@
-# I'm Pavithra Rajendran 👋 
+# Hi, I'm Pavithra Rajendran 👋 
 
 
 A passionate **Computer Science & Engineering Student** dedicated to building scalable web solutions, optimizing databases, and exploring cutting-edge cloud tech. 🚀
