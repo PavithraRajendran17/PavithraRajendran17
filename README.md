@@ -1,644 +1,218 @@
 <div align="center">
 
-# Hello.
+# 🌈 Hello, I'm Pavithra Rajendran
 
-# I'm **Pavithra Rajendran** 👋
+### 💻 Full Stack Developer • ☕ Java Developer • 🤖 AI Enthusiast
 
-### Full Stack Developer • Java Developer • AI Enthusiast
-
-Building elegant, scalable, and meaningful software with modern technologies.
+Building scalable applications with **Java**, **Spring Boot**, **React**, and a passion for solving real-world problems.
 
 <br>
 
-<a href="#featured-projects">
-<img src="https://img.shields.io/badge/View%20Projects-0A84FF?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="#projects">
+<img src="https://img.shields.io/badge/🚀%20Projects-8B5CF6?style=for-the-badge"/>
+</a>
+&nbsp;
+<a href="#connect">
+<img src="https://img.shields.io/badge/💌%20Connect-10B981?style=for-the-badge"/>
+</a>
+
+</div>
+
+---
+
+## 🌸 About Me
+
+🎓 Final Year Computer Science Engineering Student
+
+💻 Passionate about Full Stack Development
+
+☕ Java & Spring Boot Backend Developer
+
+🤖 Interested in Artificial Intelligence
+
+☁ Currently Learning AWS & Cloud Technologies
+
+🎯 Goal: Build impactful software and grow as a Software Engineer.
+
+---
+
+## 🌈 Current Focus
+
+- 🚀 Full Stack Development
+- 🤖 AI Powered Applications
+- ☁ Cloud Computing
+- 💡 Data Structures & Algorithms
+- 📚 Continuous Learning
+
+---
+
+> **"Simple code. Meaningful solutions."**
+
+---
+
+<a id="projects"></a>
+
+# 🚀 Featured Projects
+
+### 🚖 Skyway Cab Service
+
+A modern cab booking platform that enables users to book rides, manage trips and experience a smooth transportation service.
+
+**Tech Stack**
+
+`Java` • `Spring Boot` • `MySQL` • `HTML` • `CSS` • `JavaScript`
+
+---
+
+### 🌴 Peaceful Escape to Kerala
+
+A responsive tourism website showcasing Kerala's beautiful destinations with an elegant and user-friendly interface.
+
+**Tech Stack**
+
+`HTML5` • `CSS3` • `JavaScript`
+
+---
+
+### 🏠 AI Hostel Management System
+
+An AI-powered hostel management platform for complaint management, leave requests, student support and administrative operations.
+
+**Tech Stack**
+
+`React` • `Spring Boot` • `MySQL` • `Gemini AI`
+
+---
+
+### ☕ MyCoffeeHub
+
+A full stack coffee ordering platform with secure authentication, menu management and an efficient ordering experience.
+
+**Tech Stack**
+
+`React` • `Spring Boot` • `MySQL`
+
+---
+
+# 🧰 Tech Stack
+
+### 💻 Languages
+
+`Java` `Python` `C` `JavaScript` `HTML5` `CSS3`
+
+### ⚙ Frameworks
+
+`Spring Boot` `React` `Bootstrap`
+
+### 🗄 Database
+
+`MySQL` `MongoDB`
+
+### 🛠 Tools
+
+`Git` `GitHub` `VS Code` `Postman` `IntelliJ IDEA`
+
+### 🌱 Currently Learning
+
+`AWS` `Artificial Intelligence` `System Design`
+
+---
+
+## ✨ What I Enjoy Building
+
+🌈 Full Stack Web Applications
+
+🤖 AI Powered Solutions
+
+⚡ REST APIs
+
+📱 Responsive User Interfaces
+
+🗄 Database Driven Applications
+
+---
+
+---
+
+# 📊 GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=PavithraRajendran17&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavithraRajendran17&layout=compact&theme=transparent&hide_border=true"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=PavithraRajendran17&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+✨ Full Stack Development Projects
+
+🤖 AI-Based Application Development
+
+☕ Java Backend Development
+
+📚 Continuous Learning & Problem Solving
+
+💡 Passion for Building Real-World Solutions
+
+---
+
+<a id="connect"></a>
+
+# 🌈 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/PavithraRajendran17">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 &nbsp;
 
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-10B981?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-<br>
+# 💼 Open to Opportunities
 
-# About
+I'm currently looking for opportunities in:
 
-```text
-Computer Science Engineering Student
-
-Focused on building modern web applications
-using Java, Spring Boot and React.
-
-I enjoy solving real-world problems through
-clean architecture, scalable backend systems,
-and intuitive user experiences.
-
-Currently exploring Artificial Intelligence,
-Cloud Computing and System Design.
-```
-
----
-
-# Currently
-
-🌱 Learning Spring Boot Advanced Concepts
-
-🤖 Building AI Powered Applications
-
-☁ Exploring AWS Cloud
-
-💻 Practicing Data Structures & Algorithms
-
-🚀 Preparing for Software Engineer Opportunities
-
----
-
-# Philosophy
-
-> **"Simple code. Smart solutions. Real impact."**
-
----
-
-# Journey
-
-```text
-Learn
-
-    ↓
-
-Build
-
-    ↓
-
-Fail
-
-    ↓
-
-Improve
-
-    ↓
-
-Repeat
-
-    ↓
-
-Become Better Everyday
-```
+- 💻 Software Engineering
+- ☕ Java Backend Development
+- 🚀 Full Stack Development
+- 🤖 AI & Intelligent Applications
 
 ---
 
 <div align="center">
 
-### "Technology is best when it brings people together."
+## 🌸 Thanks for Visiting
+
+*"Code with purpose. Learn with passion. Grow with consistency."*
+
+<br>
+
+⭐ If you like my work, consider starring my repositories.
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,25:EC4899,50:06B6D4,75:10B981,100:F59E0B&height=110&section=footer"/>
 
 </div>
-
-<br>
-
----
-# Skills
-
-<div align="center">
-
-### Technologies I enjoy working with
-
-</div>
-
-<br>
-
-<table width="100%">
-
-<tr>
-
-<td width="25%" valign="top">
-
-### Languages
-
-- Java
-- Python
-- C
-- JavaScript
-- HTML5
-- CSS3
-
-</td>
-
-<td width="25%" valign="top">
-
-### Backend
-
-- Spring Boot
-- REST APIs
-- Hibernate
-- JDBC
-
-</td>
-
-<td width="25%" valign="top">
-
-### Frontend
-
-- React
-- Responsive UI
-- Bootstrap
-- Modern Web Design
-
-</td>
-
-<td width="25%" valign="top">
-
-### Database
-
-- MySQL
-- MongoDB
-- SQL
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# Development Environment
-
-<div align="center">
-
-| IDEs | Tools | Version Control |
-|:----:|:-----:|:---------------:|
-| VS Code | Postman | Git |
-| IntelliJ IDEA | Eclipse | GitHub |
-
-</div>
-
----
-
-# Workflow
-
-```text
-Planning
-
-    ↓
-
-Design
-
-    ↓
-
-Development
-
-    ↓
-
-Testing
-
-    ↓
-
-Deployment
-
-    ↓
-
-Continuous Improvement
-```
-
----
-
-# What I'm Working On
-
-### AI Hostel Management System
-
-Developing an AI-powered hostel management platform with intelligent complaint handling, leave management and chatbot assistance using Spring Boot, React and Gemini AI.
-
-<br>
-
-### Java Backend Development
-
-Building secure REST APIs and scalable backend services using Spring Boot and MySQL.
-
-<br>
-
-### Cloud Learning
-
-Expanding knowledge in AWS and deployment practices.
-
----
-
-# Technologies I'm Exploring
-
-- Artificial Intelligence
-- AWS Cloud
-- System Design
-- Microservices
-- Docker
-- Software Architecture
-
----
-
-# Development Principles
-
-> Write clean code.
-
-> Build scalable applications.
-
-> Learn continuously.
-
-> Focus on user experience.
-
----
-
-# Quick Snapshot
-
-```text
-Role
-
-Full Stack Developer
-
-──────────────
-
-Primary Language
-
-Java
-
-──────────────
-
-Backend
-
-Spring Boot
-
-──────────────
-
-Frontend
-
-React
-
-──────────────
-
-Database
-
-MySQL
-
-──────────────
-
-Interested In
-
-Artificial Intelligence
-Cloud Computing
-System Design
-```
-
----
-
-<div align="center">
-
-### "Great software is built one thoughtful decision at a time."
-
-</div>
-
----
-
-<a id="featured-projects"></a>
-
-# Featured Projects
-
-Building applications that solve practical problems through clean design, scalable architecture and meaningful user experiences.
-
-<br>
-
----
-
-## 🚖 Skyway Cab Service
-
-### Smart Cab Booking Platform
-
-A modern cab booking platform designed to simplify transportation through secure authentication, ride booking, trip management and an intuitive user experience.
-
-**Highlights**
-
-- Secure Login & Registration
-- Cab Booking Management
-- Ride History
-- Responsive User Interface
-- Database Integration
-
-**Built With**
-
-`Java` • `Spring Boot` • `MySQL` • `HTML` • `CSS` • `JavaScript`
-
-**Focus**
-
-Creating a reliable and scalable transportation management solution.
-
-<br>
-
----
-
-## 🌴 Peaceful Escape to Kerala
-
-### Tourism & Travel Experience
-
-A responsive tourism website showcasing Kerala's beautiful destinations with a clean layout, smooth navigation and immersive browsing experience.
-
-**Highlights**
-
-- Responsive Design
-- Destination Showcase
-- Travel Information
-- Interactive Layout
-- Modern User Interface
-
-**Built With**
-
-`HTML5` • `CSS3` • `JavaScript`
-
-**Focus**
-
-Delivering an engaging travel experience through elegant web design.
-
-<br>
-
----
-
-## 🏠 AI Hostel Management System
-
-### Intelligent Hostel Administration
-
-An AI-powered hostel management platform that streamlines complaints, leave requests and student support using intelligent automation.
-
-**Highlights**
-
-- AI Chat Assistant
-- Complaint Management
-- Leave Approval Workflow
-- Student Dashboard
-- Admin Dashboard
-- Secure Authentication
-
-**Built With**
-
-`React` • `Spring Boot` • `MySQL` • `Gemini AI`
-
-**Focus**
-
-Reducing manual work through intelligent automation and modern software architecture.
-
-<br>
-
----
-
-## ☕ MyCoffeeHub
-
-### Smart Coffee Ordering Platform
-
-A full stack coffee ordering platform focused on delivering a seamless ordering experience with secure authentication and scalable backend services.
-
-**Highlights**
-
-- User Authentication
-- Menu Management
-- Order Processing
-- Responsive Design
-- Admin Management
-
-**Built With**
-
-`React` • `Spring Boot` • `MySQL`
-
-**Focus**
-
-Building a fast, reliable and user-friendly digital ordering platform.
-
----
-
-# Project Philosophy
-
-> I enjoy building projects that combine clean architecture, practical functionality and a great user experience. Every project is an opportunity to learn, improve and solve a real-world problem.
-
----
-
-<div align="center">
-
-### More exciting projects are on the way...
-
-</div>
-
----
-
-# Beyond Coding
-
-Software development is more than writing code. I enjoy learning new technologies, improving problem-solving skills and building applications that create real value.
-
-<br>
-
----
-
-# GitHub Overview
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=PavithraRajendran17&show_icons=true&hide_border=true&theme=transparent"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavithraRajendran17&layout=compact&hide_border=true&theme=transparent"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=PavithraRajendran17&theme=transparent&hide_border=true"/>
-
-</div>
-
----
-
-# Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PavithraRajendran17&theme=github-compact&hide_border=true"/>
-
-</div>
-
----
-
-# Experience
-
-### Full Stack Development Intern
-
-**CodeAlpha Technologies**
-
-Worked on modern full stack web applications using backend technologies, frontend frameworks and database integration while following clean development practices.
-
-<br>
-
-### Web Development Intern
-
-**Newmak Infotech**
-
-Developed responsive websites and improved practical knowledge in frontend development, UI implementation and web technologies.
-
----
-
-# Certifications
-
-- IBM SkillsBuild
-- Infosys Springboard
-- NPTEL
-- Oracle Learning
-- FutureSkills Prime
-
----
-
-# What Defines My Work
-
-### Clean Architecture
-
-Building maintainable and scalable software.
-
-<br>
-
-### User First
-
-Designing applications that are simple and intuitive.
-
-<br>
-
-### Continuous Learning
-
-Learning every day through projects, coding practice and new technologies.
-
-<br>
-
-### Problem Solving
-
-Turning ideas into practical software solutions.
-
----
-
-# Currently Exploring
-
-- Artificial Intelligence
-- Cloud Computing
-- Microservices
-- Docker
-- System Design
-- Backend Performance Optimization
-
----
-
-# Looking Ahead
-
-My goal is to contribute to impactful software products while continuously improving my technical expertise in backend engineering, full stack development and AI-driven applications.
-
-<br>
-
-I believe consistency, curiosity and continuous improvement are the foundation of becoming a great software engineer.
-
----
-
-<div align="center">
-
-### "Keep learning. Keep building. Keep improving."
-
-</div>
-
----
-
-# Let's Connect
-
-If you're interested in collaborating, discussing ideas, or simply saying hello, I'd be happy to connect.
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/PavithraRajendran17">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/pavithrarajendran17">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="mailto:pavithrapanimalar30@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# Open to Opportunities
-
-I'm actively looking for opportunities where I can contribute, learn and grow as a Software Engineer.
-
-### Areas of Interest
-
-- Full Stack Development
-- Backend Engineering
-- Java Development
-- Spring Boot Development
-- Artificial Intelligence
-- Cloud Technologies
-
----
-
-# Outside the Code
-
-When I'm not coding, you'll usually find me
-
-- 📚 Learning new technologies
-- 💻 Solving coding challenges
-- ☕ Exploring project ideas
-- 🎯 Improving problem-solving skills
-- 🌱 Growing one step every day
-
----
-
-# A Note
-
-I believe great software is built with curiosity, consistency and attention to detail.
-
-Every project I create is another step toward becoming a better engineer.
-
----
-
-<div align="center">
-
-# Thank You.
-
-Thanks for taking the time to visit my GitHub profile.
-
-I hope my work reflects my passion for technology and continuous learning.
-
-⭐ Feel free to explore my repositories.
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-### Designed & Developed by
-
-# Pavithra Rajendran
-
-### Full Stack Developer
-
-Building software with simplicity, purpose and passion.
-
-</div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:111111,50:444444,100:111111&section=footer"/>
