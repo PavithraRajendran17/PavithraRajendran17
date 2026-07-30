@@ -198,6 +198,12 @@ I'm currently looking for opportunities in:
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,25:EC4899,50:06B6D4,75:10B981,100:F59E0B&height=110&section=footer"/>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=gradient"/>
 
 </div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient"/>
