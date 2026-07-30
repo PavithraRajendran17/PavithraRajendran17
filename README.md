@@ -134,21 +134,6 @@ A full stack coffee ordering platform with secure authentication, menu managemen
 
 ---
 
-# 📊 GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=PavithraRajendran17&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavithraRajendran17&layout=compact&theme=transparent&hide_border=true"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=PavithraRajendran17&theme=transparent&hide_border=true"/>
-
-</div>
-
----
 
 # 🏆 Achievements
 
