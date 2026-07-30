@@ -94,27 +94,34 @@ A full stack coffee ordering platform with secure authentication, menu managemen
 
 ---
 
-# 🧰 Tech Stack
+## 🧰 Tech Stack
+
+<div align="center">
 
 ### 💻 Languages
+<img src="https://skillicons.dev/icons?i=java,python,c,js,html,css&theme=dark" />
 
-`Java` `Python` `C` `JavaScript` `HTML5` `CSS3`
+<br><br>
 
-### ⚙ Frameworks
+### ⚙️ Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=spring,react,bootstrap&theme=dark" />
 
-`Spring Boot` `React` `Bootstrap`
+<br><br>
 
-### 🗄 Database
+### 🗄️ Database
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
 
-`MySQL` `MongoDB`
+<br><br>
 
-### 🛠 Tools
+### 🛠️ Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,idea&theme=dark" />
 
-`Git` `GitHub` `VS Code` `Postman` `IntelliJ IDEA`
+<br><br>
 
 ### 🌱 Currently Learning
+<img src="https://skillicons.dev/icons?i=aws,docker,firebase&theme=dark" />
 
-`AWS` `Artificial Intelligence` `System Design`
+</div>
 
 ---
 
