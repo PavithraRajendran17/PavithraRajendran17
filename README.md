@@ -90,7 +90,7 @@ A full stack coffee ordering platform with secure authentication, menu managemen
 
 **Tech Stack**
 
-`React` • `Spring Boot` • `MySQL`
+`HTML` • `CSS` • `MySQL`
 
 ---
 
